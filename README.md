@@ -3,3 +3,4 @@
 
 # 셀레니움
 - 하찮고 느린 셀레니움 안씁니다 ㅉㅉ
+- https://streamable.com/e38b9p
